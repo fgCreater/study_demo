@@ -1,0 +1,8 @@
+prefix=/home/ykxn/Desktop/ws_test/devel
+
+Name: synchronizer
+Description: Description of synchronizer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
