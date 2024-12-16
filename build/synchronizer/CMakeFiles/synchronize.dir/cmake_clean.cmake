@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
+  "/home/ff/桌面/test/devel/lib/synchronizer/synchronize"
+  "/home/ff/桌面/test/devel/lib/synchronizer/synchronize.pdb"
   "CMakeFiles/synchronize.dir/src/synchronize.cpp.o"
-  "/home/ykxn/Desktop/ws_test/devel/lib/synchronizer/synchronize.pdb"
-  "/home/ykxn/Desktop/ws_test/devel/lib/synchronizer/synchronize"
+  "CMakeFiles/synchronize.dir/src/synchronize.cpp.o.d"
 )
 
 # Per-language clean rules from dependency scanning.

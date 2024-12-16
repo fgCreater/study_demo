@@ -1,4 +1,4 @@
-prefix=/home/ykxn/Desktop/ws_test/devel
+prefix=/home/ff/桌面/test/devel
 
 Name: synchronizer
 Description: Description of synchronizer

@@ -7,9 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ykxn/Desktop/ws_test/devel:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/ykxn/Desktop/ws_test/devel/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/ykxn/Desktop/ws_test/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
-export PWD='/home/ykxn/Desktop/ws_test/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/ykxn/Desktop/ws_test/devel/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/ykxn/Desktop/ws_test/src:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/ff/桌面/test/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/ff/桌面/test/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/ff/桌面/test/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
+export PWD='/home/ff/桌面/test/build'
+export ROS_PACKAGE_PATH="/home/ykxn/Desktop/ws_test/src:/home/ff/桌面/test/src:$ROS_PACKAGE_PATH"

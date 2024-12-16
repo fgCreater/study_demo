@@ -5,5 +5,7 @@
     "python.analysis.extraPaths": [
         "/opt/ros/melodic/lib/python2.7/dist-packages"
     ],
-    "cmake.sourceDirectory": "/home/ykxn/Desktop/ws_test/src/synchronizer"
+    "cmake.sourceDirectory": "/home/ykxn/Desktop/ws_test/src/synchronizer",
+    "cmake.ignoreCMakeListsMissing": true,
+    "C_Cpp.errorSquiggles": "enabled"
 }
