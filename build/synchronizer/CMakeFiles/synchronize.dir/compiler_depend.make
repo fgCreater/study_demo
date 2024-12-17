@@ -1341,6 +1341,7 @@ synchronizer/CMakeFiles/synchronize.dir/src/synchronize.cpp.o: /home/ff/桌面/t
   /opt/ros/melodic/include/message_filters/connection.h \
   /opt/ros/melodic/include/message_filters/null_types.h \
   /opt/ros/melodic/include/message_filters/signal9.h \
+  /opt/ros/melodic/include/message_filters/sync_policies/approximate_time.h \
   /opt/ros/melodic/include/sensor_msgs/LaserScan.h \
   /opt/ros/melodic/include/ros/message_operations.h \
   /opt/ros/melodic/include/std_msgs/Header.h \
@@ -1353,6 +1354,8 @@ synchronizer/CMakeFiles/synchronize.dir/src/synchronize.cpp.o: /home/ff/桌面/t
 /opt/ros/melodic/include/sensor_msgs/PointField.h:
 
 /opt/ros/melodic/include/sensor_msgs/NavSatStatus.h:
+
+/opt/ros/melodic/include/message_filters/sync_policies/approximate_time.h:
 
 /usr/include/c++/7/deque:
 

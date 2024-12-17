@@ -7,5 +7,10 @@
     ],
     "cmake.sourceDirectory": "/home/ykxn/Desktop/ws_test/src/synchronizer",
     "cmake.ignoreCMakeListsMissing": true,
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "cmath": "cpp",
+        "complex": "cpp",
+        "ostream": "cpp"
+    }
 }
