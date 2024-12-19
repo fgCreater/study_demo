@@ -1,2 +1,2 @@
-synchronizer
+synchronizer:tf
 -DCATKIN_DEVEL_PREFIX=/home/ff/桌面/test/devel -DCMAKE_INSTALL_PREFIX=/home/ff/桌面/test/install -G Unix Makefiles

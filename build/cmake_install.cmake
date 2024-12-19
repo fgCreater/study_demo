@@ -137,6 +137,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/ff/桌面/test/build/gtest/cmake_install.cmake")
   include("/home/ff/桌面/test/build/synchronizer/cmake_install.cmake")
+  include("/home/ff/桌面/test/build/tf/cmake_install.cmake")
 
 endif()
 
